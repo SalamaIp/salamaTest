@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VScode Learning\\ASP\\Quiz\\Quiz\\Quiz.csproj": {}
+    "D:\\VScode Learning\\Simple Test\\SimpleQuiz\\quiz\\Backend\\Quiz.csproj": {}
   },
   "projects": {
-    "D:\\VScode Learning\\ASP\\Quiz\\Quiz\\Quiz.csproj": {
+    "D:\\VScode Learning\\Simple Test\\SimpleQuiz\\quiz\\Backend\\Quiz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VScode Learning\\ASP\\Quiz\\Quiz\\Quiz.csproj",
+        "projectUniqueName": "D:\\VScode Learning\\Simple Test\\SimpleQuiz\\quiz\\Backend\\Quiz.csproj",
         "projectName": "Quiz",
-        "projectPath": "D:\\VScode Learning\\ASP\\Quiz\\Quiz\\Quiz.csproj",
+        "projectPath": "D:\\VScode Learning\\Simple Test\\SimpleQuiz\\quiz\\Backend\\Quiz.csproj",
         "packagesPath": "C:\\Users\\msala\\.nuget\\packages\\",
-        "outputPath": "D:\\VScode Learning\\ASP\\Quiz\\Quiz\\obj\\",
+        "outputPath": "D:\\VScode Learning\\Simple Test\\SimpleQuiz\\quiz\\Backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\msala\\AppData\\Roaming\\NuGet\\NuGet.Config",

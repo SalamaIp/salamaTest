@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XAFuW0/InZGoif0MpeQVQTG/vXa6imnmVXQNaWsmdr/4ukpxbNoI1OR0LG0z2PYUHdWsOXZ0+uIQhG56m7ksjg==",
+  "dgSpecHash": "nNAfvnm/yOtBCNBG6xOYbLZ+42AwcBaXLxwRygsW036KxlHYP0j1Ej6Ht7ptR/TP/TK9Z03xwgsAeDBpYCpD7Q==",
   "success": true,
-  "projectFilePath": "D:\\VScode Learning\\ASP\\Quiz\\Quiz\\Quiz.csproj",
+  "projectFilePath": "D:\\VScode Learning\\Simple Test\\SimpleQuiz\\quiz\\Backend\\Quiz.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\msala\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\msala\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
